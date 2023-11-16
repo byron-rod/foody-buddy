@@ -24,16 +24,28 @@ const CategoryListData = [
     icon: "/ramen.png",
   },
   {
-    id: 4,
+    id: 5,
     name: "Japanese",
     value: "japanese restaurant",
     icon: "/bento.png",
   },
   {
-    id: 5,
+    id: 6,
     name: "Indian",
     value: "Indian restaurant",
     icon: "/masala-dosa.png",
+  },
+  {
+    id: 7,
+    name: "Vegetarian",
+    value: "Vegetarian restaurant",
+    icon: "/vegetarian.png",
+  },
+  {
+    id: 8,
+    name: "Cafe",
+    value: "Cafe",
+    icon: "/cafe.png",
   },
 ];
 
