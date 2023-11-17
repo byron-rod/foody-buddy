@@ -46,7 +46,7 @@ export default function Home() {
     >
       <div className="p-2">
         <CategoryList onCategoryChange={(value) => setCategory(value)} />
-        <RangeSelect onRadiusChange={(value) => setRadius(value)} />
+        {/* <RangeSelect onRadiusChange={(value) => setRadius(value)} /> */}
       </div>
       <div className="col-span-3 mt-5">
         <GoogleMapView businessList={businessList} />

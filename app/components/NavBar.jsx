@@ -8,7 +8,7 @@ function NavBar() {
         <Image src="/logo.png" alt="logo" width={50} height={50} priority />
         <h1 className="text-3xl">Foody Buddy</h1>
       </div>
-      <div
+      {/* <div
         className=" bg-gray-100 p-[6px] rounded-md
       w-[50%] gap-3 flex"
       >
@@ -32,7 +32,7 @@ function NavBar() {
           className="bg-transparent 
         outline-none w-full"
         />
-      </div>
+      </div> */}
     </div>
   );
 }

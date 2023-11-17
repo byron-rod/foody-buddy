@@ -47,6 +47,18 @@ const CategoryListData = [
     value: "Cafe",
     icon: "/cafe.png",
   },
+  {
+    id: 9,
+    name: "Dine-In",
+    value: "dine-in restaurant",
+    icon: "/dine-in.png",
+  },
+  {
+    id: 10,
+    name: "Steakhouse",
+    value: "steakhouse restaurant",
+    icon: "/steak.png",
+  },
 ];
 
 const ratingList = [
